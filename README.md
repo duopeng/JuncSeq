@@ -1,13 +1,19 @@
 # JuncSeq
 Extract splice junction sequences (from Ensembl format genomes)  
   
-![image](https://user-images.githubusercontent.com/4129442/220227109-fd0b8f78-338a-4c37-bc71-b63e24f5bd6c.png)
+[image](https://user-images.githubusercontent.com/4129442/220261329-57a4add1-7622-4691-9bae-8243212c9c3c.png)
 
 
 Make Weblogo plots  
   
-![image](https://user-images.githubusercontent.com/4129442/220224109-0fbda8bb-485c-4ce4-a080-a918380298a4.png)
-![image](https://user-images.githubusercontent.com/4129442/220224160-ced5e3c6-4c59-48f0-b839-c3b3f3ccfd32.png)
+![image](https://user-images.githubusercontent.com/4129442/220261597-416a3bf5-1acd-49c9-89dc-416be11e791f.png)
+![image](https://user-images.githubusercontent.com/4129442/220261672-3472b0ea-36fb-4311-8a31-71744907963d.png)  
+
+![image](https://user-images.githubusercontent.com/4129442/220261624-1336c745-a957-4178-af1f-93996ef9dace.png)
+![image](https://user-images.githubusercontent.com/4129442/220261686-5793cb04-193e-4fad-bbce-2f2ba8b0e3d8.png)  
+
+![image](https://user-images.githubusercontent.com/4129442/220261637-3004c3db-d887-4f5e-94f9-93020a34a119.png)
+![image](https://user-images.githubusercontent.com/4129442/220261696-e91dbb08-5376-4920-8e3c-78faa41a63f0.png)
 
 
 # Usage
