@@ -60,8 +60,10 @@ def extract_junc_seq(junc_coord, seq_dict, left_padding = 1, right_padding = 1):
 
         if coord.strand == 1:
             junc_seq = seq_record.seq[coord.start-left_padding:coord.end+right_padding-1]
-            seq_list.append(junc_seq)
+            if len(str(junc_seq)) == left_padding + right_padding: # remove edge cases where there aren't enough sequence to extract (which will cause errors with Weblogo)
+                seq_list.append(junc_seq)
         else:
             junc_seq = seq_record.seq[coord.end-right_padding-1:coord.start+left_padding].reverse_complement()
-            seq_list.append(junc_seq)
+            if len(str(junc_seq)) == left_padding + right_padding: # remove edge cases where there aren't enough sequence to extract (which will cause errors with Weblogo)
+                seq_list.append(junc_seq)
     return seq_list
