@@ -13,8 +13,7 @@ Make Weblogo plots
 ![image](https://user-images.githubusercontent.com/4129442/220261624-1336c745-a957-4178-af1f-93996ef9dace.png)
 ![image](https://user-images.githubusercontent.com/4129442/220261686-5793cb04-193e-4fad-bbce-2f2ba8b0e3d8.png)  
 
-![image](https://user-images.githubusercontent.com/4129442/220261637-3004c3db-d887-4f5e-94f9-93020a34a119.png)
-![image](https://user-images.githubusercontent.com/4129442/220261696-e91dbb08-5376-4920-8e3c-78faa41a63f0.png)
+
 
 
 # Usage
