@@ -1,7 +1,8 @@
 # JuncSeq
 Extract splice junction sequences (from Ensembl format genomes)  
   
-[image](https://user-images.githubusercontent.com/4129442/220261329-57a4add1-7622-4691-9bae-8243212c9c3c.png)
+![image](https://user-images.githubusercontent.com/4129442/220262088-47984630-fc4c-4448-914d-69da66d0834e.png)
+
 
 
 Make Weblogo plots  
