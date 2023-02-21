@@ -41,5 +41,9 @@ You should see the following output:
 ```
 JuncSeq.ipynb
 ```
+Please make sure the "GenomeBuild" and "species" match, see the mouse example below:  
+
+![image](https://user-images.githubusercontent.com/4129442/220231238-069235ad-6561-4fe5-a917-39e98173fb4e.png)
+
 
 
