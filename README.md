@@ -36,7 +36,7 @@ python run_tests.py
 You should see the following output:  
 ![image](https://user-images.githubusercontent.com/4129442/220225526-c46da6d6-9a04-4d1f-95b2-0b8615e13a5b.png)
 
-## Use the following Jupyter notebook to extract splice junction sequences and make Weblogo plots
+## Use the following notebook to extract splice junction sequences and make Weblogo plots
 ```
 JuncSeq.ipynb
 ```
